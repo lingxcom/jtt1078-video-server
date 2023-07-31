@@ -3,7 +3,7 @@
 
 **演示地址**
 
-http://www.longyaniot.com/
+http://gps.lingx.com/
 
 账号:admin
 
